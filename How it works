@@ -1,0 +1,18 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    How it works                                       :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ldu-pree <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/06/18 16:38:23 by ldu-pree          #+#    #+#              #
+#    Updated: 2019/06/18 16:43:05 by ldu-pree         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+compile it with $>gcc color.c
+then run it with $>./a.out (colour) (sentence)
+example:
+$>./a.out Red "hello world of awesomeness"
+to get a list of colours do $>./a.out list
+capitals do not matter so you can write GReeN
